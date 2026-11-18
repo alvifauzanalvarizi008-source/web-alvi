@@ -1,0 +1,599 @@
+{
+  "ruangan": [
+    "Kepala Sekolah",
+    "Guru dan Wks. Kurikulum",
+    "wks kesiswaan dan Bk",
+    "Wks Hubin dan BKK",
+    "TU Keuangan",
+    "TU Administrasi",
+    "UKS",
+    "Osis",
+    "Pramuka",
+    "Paskibra",
+    "Kantor Prusahaan DUDI",
+    "Sarana Prasarana dan Gudang",
+    "IT SUPPORT",
+    "LAB 1 PPLG",
+    "LAB 2 PPLG",
+    "LAB 3D ANIMASI",
+    "LAB GAMBAR",
+    "LAB DKV",
+    "LAB AKUNTANSI",
+    "LAB BAHSA",
+    "LAB PEMASARAN",
+    "LAB PPLG 3",
+    "LAB PPLG 4",
+    "LAB PPLG 5",
+    "LAB PPLG IOT",
+    "LAB BROADCAST",
+    "SABLON",
+    "LAB CETAK",
+    "Studio FOTO",
+    "KESENIAN",
+    "PERPUSTAKAAN",
+    "XII AKUNTANSI 1",
+    "XII AKUNTANSI 2",
+    "XII DKV",
+    "XII ANIMASI",
+    "GUDANG KURSI",
+    "XII PPLG 1",
+    "XII PPLG 2",
+    "XI AKT",
+    "KOSONG",
+    "XI PPLG 1",
+    "XI PPLG 2",
+    "X PPLG 1",
+    "X PPLG 2",
+    "XI DKV",
+    "XI ANIMASI",
+    "X DKV 2",
+    "X DKV 1",
+    "KOSONG",
+    "X AKUNTANSI 2",
+    "GUDANG KURSI",
+    "X AKUNTANSI 1",
+    "KELAS KOSONG 1",
+    "KELAS KOSONG 2",
+    "KELAS KOSONG 3",
+    "KLAS KOSONG GD DEPAN 1",
+    "KLAS KOSONG GD DEPAN 2",
+    "KLAS KOSONG GD DEPAN 3",
+    "KLAS KOSONG GD DEPAN 4"
+  ],
+  "kategori": [
+    {
+      "kode": "2",
+      "nama": "PERABOTAN",
+      "barang": [
+        {
+          "nomor": 1,
+          "nama": "Akrilik Nama"
+        },
+        {
+          "nomor": 2,
+          "nama": "Filling cabinet"
+        },
+        {
+          "nomor": 3,
+          "nama": "Kursi Guru"
+        },
+        {
+          "nomor": 4,
+          "nama": "Kursi Rapat"
+        },
+        {
+          "nomor": 5,
+          "nama": "Kursi siswa"
+        },
+        {
+          "nomor": 6,
+          "nama": "Lemari Alat Bahan"
+        },
+        {
+          "nomor": 7,
+          "nama": "Lemari Arsip"
+        },
+        {
+          "nomor": 8,
+          "nama": "Loker Guru"
+        },
+        {
+          "nomor": 9,
+          "nama": "Meja Guru"
+        },
+        {
+          "nomor": 10,
+          "nama": "Meja Kerja"
+        },
+        {
+          "nomor": 11,
+          "nama": "Meja Komputer"
+        },
+        {
+          "nomor": 12,
+          "nama": "Meja Produksi"
+        },
+        {
+          "nomor": 13,
+          "nama": "Meja Rapat"
+        },
+        {
+          "nomor": 14,
+          "nama": "Meja Siswa"
+        },
+        {
+          "nomor": 15,
+          "nama": "Papan Pengumuman"
+        },
+        {
+          "nomor": 16,
+          "nama": "papan tulis"
+        },
+        {
+          "nomor": 17,
+          "nama": "Rak Piala"
+        },
+        {
+          "nomor": 18,
+          "nama": "Sofa Tamu"
+        },
+        {
+          "nomor": 19,
+          "nama": "Tong Sampah"
+        },
+        {
+          "nomor": 20,
+          "nama": "Ranjang dan kasur"
+        },
+        {
+          "nomor": 21,
+          "nama": "Sapu"
+        },
+        {
+          "nomor": 22,
+          "nama": "Lap pel"
+        }
+      ]
+    },
+    {
+      "kode": "3",
+      "nama": "ELEKTRONIK",
+      "barang": [
+        {
+          "nomor": 1,
+          "nama": "Interactive Flat Panel"
+        },
+        {
+          "nomor": 2,
+          "nama": "AC"
+        },
+        {
+          "nomor": 3,
+          "nama": "CCTV"
+        },
+        {
+          "nomor": 4,
+          "nama": "Dispenser"
+        },
+        {
+          "nomor": 5,
+          "nama": "Kipas Angin/ Exhaust fan"
+        },
+        {
+          "nomor": 6,
+          "nama": "Layar Proyektor"
+        },
+        {
+          "nomor": 7,
+          "nama": "Mesin Fotokopi"
+        },
+        {
+          "nomor": 8,
+          "nama": "Microphone"
+        },
+        {
+          "nomor": 9,
+          "nama": "Mixer Suara"
+        },
+        {
+          "nomor": 10,
+          "nama": "Printer"
+        },
+        {
+          "nomor": 11,
+          "nama": "Proyektor/Infokus"
+        },
+        {
+          "nomor": 12,
+          "nama": "Scanner"
+        },
+        {
+          "nomor": 13,
+          "nama": "Telepon Kantor"
+        },
+        {
+          "nomor": 14,
+          "nama": "TV"
+        },
+        {
+          "nomor": 15,
+          "nama": "Sound Sistem"
+        },
+        {
+          "nomor": 16,
+          "nama": "Ampli Gitar"
+        },
+        {
+          "nomor": 17,
+          "nama": "Speaker Portable"
+        },
+        {
+          "nomor": 18,
+          "nama": "Handphone"
+        },
+        {
+          "nomor": 19,
+          "nama": "Speaker Kecil"
+        },
+        {
+          "nomor": 20,
+          "nama": "Terminal stop kontak"
+        }
+      ]
+    },
+    {
+      "kode": "4",
+      "nama": "ALAT PRAKTIK/LAB",
+      "barang": [
+        {
+          "nomor": 1,
+          "nama": "Komputer Akuntansi"
+        },
+        {
+          "nomor": 2,
+          "nama": "Komputer Animasi"
+        },
+        {
+          "nomor": 3,
+          "nama": "Komputer DKV"
+        },
+        {
+          "nomor": 4,
+          "nama": "Komputer Pemasaran"
+        },
+        {
+          "nomor": 5,
+          "nama": "Komputer PPLG 1"
+        },
+        {
+          "nomor": 6,
+          "nama": "Komputer PPLG 2"
+        },
+        {
+          "nomor": 7,
+          "nama": "Komputer PPLG 3"
+        },
+        {
+          "nomor": 8,
+          "nama": "Komputer PPLG 4"
+        },
+        {
+          "nomor": 9,
+          "nama": "Komputer PPLG 5"
+        },
+        {
+          "nomor": 10,
+          "nama": "LapTop"
+        },
+        {
+          "nomor": 11,
+          "nama": "Mesin Cutting"
+        },
+        {
+          "nomor": 12,
+          "nama": "Mesin Laminasi"
+        },
+        {
+          "nomor": 13,
+          "nama": "Mesin Oven"
+        },
+        {
+          "nomor": 14,
+          "nama": "Mesin Pres"
+        },
+        {
+          "nomor": 15,
+          "nama": "Printer 3D"
+        },
+        {
+          "nomor": 16,
+          "nama": "Printer DTF"
+        },
+        {
+          "nomor": 17,
+          "nama": "Printer Foto"
+        },
+        {
+          "nomor": 18,
+          "nama": "Printer Sublim"
+        },
+        {
+          "nomor": 19,
+          "nama": "Printer UV"
+        },
+        {
+          "nomor": 20,
+          "nama": "Stabilizer/ PSU"
+        },
+        {
+          "nomor": 21,
+          "nama": "Stand Lighting"
+        },
+        {
+          "nomor": 22,
+          "nama": "Stand Microphone"
+        },
+        {
+          "nomor": 23,
+          "nama": "Tripod Camera"
+        },
+        {
+          "nomor": 24,
+          "nama": "Kamera MD 1000"
+        },
+        {
+          "nomor": 25,
+          "nama": "Tripod Kamera"
+        },
+        {
+          "nomor": 26,
+          "nama": "Soft Box Standar"
+        },
+        {
+          "nomor": 27,
+          "nama": "Lampu LED"
+        },
+        {
+          "nomor": 28,
+          "nama": "Tripod Kecil"
+        },
+        {
+          "nomor": 29,
+          "nama": "Tuled + Bracket"
+        },
+        {
+          "nomor": 30,
+          "nama": "Background Hijau"
+        },
+        {
+          "nomor": 31,
+          "nama": "Lampu Sorot"
+        },
+        {
+          "nomor": 32,
+          "nama": "Komputer Lab Broadcast"
+        },
+        {
+          "nomor": 33,
+          "nama": "Audio Mixer"
+        },
+        {
+          "nomor": 34,
+          "nama": "Video Mixer"
+        },
+        {
+          "nomor": 35,
+          "nama": "Rekording Pack"
+        },
+        {
+          "nomor": 36,
+          "nama": "Speaker"
+        },
+        {
+          "nomor": 37,
+          "nama": "Telepromter"
+        },
+        {
+          "nomor": 38,
+          "nama": "Mic Wireless"
+        },
+        {
+          "nomor": 39,
+          "nama": "Kamera Mirorrless"
+        },
+        {
+          "nomor": 40,
+          "nama": "Drone"
+        },
+        {
+          "nomor": 41,
+          "nama": "kamera Digital"
+        },
+        {
+          "nomor": 42,
+          "nama": "Oculus"
+        },
+        {
+          "nomor": 43,
+          "nama": "Lampu Sorot"
+        },
+        {
+          "nomor": 44,
+          "nama": "Lampu Studi"
+        },
+        {
+          "nomor": 45,
+          "nama": "Kamera DSRL"
+        },
+        {
+          "nomor": 46,
+          "nama": "Kamera DSRL"
+        },
+        {
+          "nomor": 47,
+          "nama": "Kamera DSRL"
+        },
+        {
+          "nomor": 48,
+          "nama": "Lensa"
+        },
+        {
+          "nomor": 49,
+          "nama": "Lensa"
+        },
+        {
+          "nomor": 50,
+          "nama": "Lensa"
+        },
+        {
+          "nomor": 51,
+          "nama": "Lampu Studio"
+        },
+        {
+          "nomor": 52,
+          "nama": "Flash"
+        },
+        {
+          "nomor": 53,
+          "nama": "Background"
+        },
+        {
+          "nomor": 54,
+          "nama": "Tripod Besar"
+        },
+        {
+          "nomor": 55,
+          "nama": "Soft Box Besar"
+        },
+        {
+          "nomor": 56,
+          "nama": "Soft Box Sedang"
+        },
+        {
+          "nomor": 57,
+          "nama": "Komputer Mac"
+        },
+        {
+          "nomor": 58,
+          "nama": "Printer Foto"
+        },
+        {
+          "nomor": 59,
+          "nama": "hub switch"
+        },
+        {
+          "nomor": 60,
+          "nama": "Haedphone"
+        },
+        {
+          "nomor": 61,
+          "nama": "Pan Tablet"
+        },
+        {
+          "nomor": 62,
+          "nama": "Server"
+        },
+        {
+          "nomor": 63,
+          "nama": "Access Point"
+        },
+        {
+          "nomor": 64,
+          "nama": "Kalkulator"
+        },
+        {
+          "nomor": 65,
+          "nama": "Mesin Kasir"
+        },
+        {
+          "nomor": 66,
+          "nama": "meja cetak sablon"
+        },
+        {
+          "nomor": 67,
+          "nama": "Alat Cetak Pin"
+        },
+        {
+          "nomor": 68,
+          "nama": "Alat Cetak Mug"
+        },
+        {
+          "nomor": 69,
+          "nama": "Alat musik"
+        },
+        {
+          "nomor": 70,
+          "nama": "Kendang"
+        },
+        {
+          "nomor": 71,
+          "nama": "Gamelan Degung Pelog selap Salendro"
+        },
+        {
+          "nomor": 72,
+          "nama": "Angklung Melodi"
+        },
+        {
+          "nomor": 73,
+          "nama": "Angklung Bass Partay"
+        },
+        {
+          "nomor": 74,
+          "nama": "Accompanyemen"
+        },
+        {
+          "nomor": 75,
+          "nama": "Cuk"
+        },
+        {
+          "nomor": 76,
+          "nama": "Bass Pukul"
+        },
+        {
+          "nomor": 77,
+          "nama": "Gambang Pengiring"
+        },
+        {
+          "nomor": 78,
+          "nama": "Drum"
+        },
+        {
+          "nomor": 79,
+          "nama": "Gitar Akustik"
+        },
+        {
+          "nomor": 80,
+          "nama": "Gitar Bass"
+        },
+        {
+          "nomor": 81,
+          "nama": "Matras"
+        },
+        {
+          "nomor": 82,
+          "nama": "Bola Voli"
+        },
+        {
+          "nomor": 83,
+          "nama": "Bola Basket"
+        },
+        {
+          "nomor": 84,
+          "nama": "Bola Futsal"
+        },
+        {
+          "nomor": 85,
+          "nama": "Net Voli"
+        },
+        {
+          "nomor": 86,
+          "nama": "Net Badminton"
+        },
+        {
+          "nomor": 87,
+          "nama": "Stik Kasti"
+        }
+      ]
+    }
+  ]
+}
